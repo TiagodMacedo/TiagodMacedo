@@ -14,9 +14,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou familiariza
 - **Linguagens de Programação**:
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,)](https://skillicons.dev)
 - **Banco de Dados**:
-- [![My Skills](https://skillicons.dev/icons?i=js,mysql,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=,mysql,)](https://skillicons.dev)
 - **Controle de Versão**:
-- [![My Skills](https://skillicons.dev/icons?i=js,git,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=,git,)](https://skillicons.dev)
 
 ## Contato
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/tiago-macedo-545059167/) ou no [GitHub](https://github.com/TiagodMacedo). Vamos nos conectar!

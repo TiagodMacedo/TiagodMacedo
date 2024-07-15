@@ -16,6 +16,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou familiariza
 - **Controle de Versão**: Git
 
 ## Contato
-Você pode me encontrar no LinkedIn ou no GitHub. Vamos nos conectar!
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/tiago-macedo-545059167/) ou no [GitHub](https://github.com/TiagodMacedo). Vamos nos conectar!
 
 !GitHub Stats

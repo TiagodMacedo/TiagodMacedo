@@ -1,16 +1,21 @@
-## Hi there 👋
+# Analista de Sistemas
 
-<!--
-**TiagodMacedo/TiagodMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Meu nome é Tiago Macedo e sou um analista de sistemas recém-formado. Tenho paixão por resolver problemas complexos e criar soluções eficientes. Durante minha formação, adquiri conhecimentos em:
 
-Here are some ideas to get you started:
+- Desenvolvimento de software
+- Análise de requisitos
+- Banco de dados
+- Testes de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas com as quais estou familiarizado:
+
+- **Linguagens de Programação**: Java, JavaScript
+- **Banco de Dados**: MySQL
+- **Controle de Versão**: Git
+
+## Contato
+Você pode me encontrar no LinkedIn ou no GitHub. Vamos nos conectar!
+
+!GitHub Stats

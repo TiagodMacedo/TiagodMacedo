@@ -11,7 +11,7 @@ Olá! Meu nome é Tiago Macedo e sou um analista de sistemas recém-formado. Ten
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais estou familiarizado:
 
-- **Linguagens de Programação**: img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />width=""100px"> Java, JavaScript
+- **Linguagens de Programação**: <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />width=""100px"> Java, JavaScript
 - **Banco de Dados**: MySQL
 - **Controle de Versão**: Git
 
